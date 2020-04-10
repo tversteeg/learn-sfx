@@ -1,0 +1,6 @@
+[book]
+title = "learn-sfx"
+authors = ["tversteeg"]
+language = "en"
+multilingual = false
+src = "src"
