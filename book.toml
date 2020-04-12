@@ -4,3 +4,6 @@ authors = ["tversteeg"]
 language = "en"
 multilingual = false
 src = "src"
+
+[output.html]
+curly-quotes = true

@@ -2,6 +2,7 @@
 
 [Introduction](./introduction.md)
 - [Basic Theory](./basic_theory.md)
+	- [Sound](./theory/sound.md)
 	- [Digital Signal Processing](./theory/digital_signal_processing.md)
 	- [Sample Rate](./theory/sample_rate.md)
 	- [Oscillators](./theory/oscillators.md)
